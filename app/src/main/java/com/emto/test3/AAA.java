@@ -5,4 +5,7 @@ package com.emto.test3;
  */
 
 public class AAA {
+
+	public static final String String = "AAA";
+
 }
